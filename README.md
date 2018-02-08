@@ -1,4 +1,4 @@
-# iOS App: Mood feeds on Twitter
+# iOS App: Mood Feeds on Twitter
 ## Authors
  - Yunfan Song
 
