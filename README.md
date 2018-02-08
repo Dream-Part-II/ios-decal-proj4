@@ -1,10 +1,9 @@
-# ios-decal-proj4
 # Mood feeds on Twitter
 ## Authors
  - Yunfan Song
 
 ## Purpose
-This app posts you mood according to the weather on Twitter.
+This app posts your mood according to the weather on Twitter.
 
 ## Features
  - Get updated weather infornmation
